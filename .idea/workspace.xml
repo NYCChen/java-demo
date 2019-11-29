@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1THBqK1PD6OgzeyQFl1v5xhUCZT" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/nyc/test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProjects\java-demo\src\nyc\test" />
+      <recent name="E:\ideaProjects\java-demo\src\nyc\thinkinjava" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.A02AddTwoNumbers">
+    <configuration name="A02AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.a01_a10.A02AddTwoNumbers" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.a01_a10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nyc.file.bytes.ByteTest" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nyc.file.bytes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CutChineseStringByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nyc.file.bytes.CutChineseStringByte" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nyc.file.bytes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetNameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nyc.file.operate.GetNameTest" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nyc.file.operate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nyc.regular.Main" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nyc.regular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A02AddTwoNumbers" />
+        <item itemvalue="Application.CutChineseStringByte" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GetNameTest" />
+        <item itemvalue="Application.ByteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="" />
+      <created>1573107329457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573107329457</updated>
+      <workItem from="1573107331519" duration="4914000" />
+      <workItem from="1573197006338" duration="3626000" />
+      <workItem from="1573959527507" duration="65000" />
+      <workItem from="1573959702622" duration="2630000" />
+      <workItem from="1573993008155" duration="3317000" />
+      <workItem from="1574253065939" duration="3398000" />
+      <workItem from="1574340441911" duration="3899000" />
+      <workItem from="1574821509042" duration="72000" />
+      <workItem from="1574822744910" duration="1043000" />
+      <workItem from="1574946177324" duration="8473000" />
+      <workItem from="1574990840348" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nyc/thinkinjava/BeetleExtends.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nyc/thinkinjava/BeetleExtends.java</url>
+          <line>24</line>
+          <properties class="nyc.thinkinjava.BeetleExtends" method="prt">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_demo$BeetleExtends.ic" NAME="BeetleExtends Coverage Results" MODIFIED="1573110695536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nyc.thinkinjava.*</FILTER>
+    </SUITE>
+  </component>
+</project>
