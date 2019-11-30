@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="无重复字符的最长子串">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A03NoEqualSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" afterDir="false" />
+    <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/nyc/forstack/WordReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-demo/leetcode/a01_a10/A02AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-demo/leetcode/a01_a10/A02AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-demo/leetcode/a01_a10/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-demo/leetcode/a01_a10/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/a01_a10/A02AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A02AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A03NoEqualSubString">
+  <component name="RunManager" selected="Application.WordReverse">
     <configuration name="A02AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.a01_a10.A02AddTwoNumbers" />
       <module name="java-demo" />
@@ -97,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetNameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nyc.file.operate.GetNameTest" />
-      <module name="java-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nyc.file.operate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nyc.regular.Main" />
       <module name="java-demo" />
@@ -123,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nyc.forstack.WordReverse" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nyc.forstack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordReverse" />
         <item itemvalue="Application.A03NoEqualSubString" />
         <item itemvalue="Application.A02AddTwoNumbers" />
         <item itemvalue="Application.CutChineseStringByte" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GetNameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -155,8 +152,16 @@
       <workItem from="1574946177324" duration="8473000" />
       <workItem from="1574990840348" duration="640000" />
       <workItem from="1575033612873" duration="2635000" />
-      <workItem from="1575076413891" duration="5789000" />
+      <workItem from="1575076413891" duration="12497000" />
     </task>
+    <task id="LOCAL-00001" summary="无重复字符的最长子串">
+      <created>1575083902773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575083902773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
