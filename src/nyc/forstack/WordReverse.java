@@ -20,7 +20,6 @@ public class WordReverse {
         System.out.println(char2); // 输出 avs
         System.out.println(char2.toString()); // 输出的是[C@14ae5a5
         System.out.println(String.valueOf(char2)); // 输出 avs
-
     }
 
     public char[] reversea(char[] ch) {
