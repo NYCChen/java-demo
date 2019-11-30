@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/nyc/forstack/WordReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nyc/forstack/WordReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +151,8 @@
       <workItem from="1574946177324" duration="8473000" />
       <workItem from="1574990840348" duration="640000" />
       <workItem from="1575033612873" duration="2635000" />
-      <workItem from="1575076413891" duration="12786000" />
+      <workItem from="1575076413891" duration="13353000" />
+      <workItem from="1575097924594" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="无重复字符的最长子串">
       <created>1575083902773</created>
@@ -166,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575095406050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="char与String转化">
+      <created>1575095462649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575095462653</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
