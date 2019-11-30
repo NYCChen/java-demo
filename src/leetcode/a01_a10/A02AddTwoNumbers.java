@@ -66,7 +66,9 @@ public class A02AddTwoNumbers {
         ListNode m = l1, n = l2, temp = result;
         int carry = 0;
 
-        /*while (m != null || n != null){
+        /*
+        // 这种办法也可以，但是没有下面的快
+        while (m != null || n != null){
             int x=(m!=null) ? m.val : 0;
             int y=(n!=null) ? n.val : 0;
             int sum = x + y +  carry;
