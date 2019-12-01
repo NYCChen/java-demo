@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A05LongestPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A04FindMedianSortedArrays.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordReverse">
+  <component name="RunManager" selected="Application.A05LongestPalindrome">
     <configuration name="A02AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.a01_a10.A02AddTwoNumbers" />
       <module name="java-demo" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CutChineseStringByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nyc.file.bytes.CutChineseStringByte" />
+    <configuration name="A05LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.a01_a10.A05LongestPalindrome" />
       <module name="java-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nyc.file.bytes.*" />
+          <option name="PATTERN" value="leetcode.a01_a10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nyc.regular.Main" />
+    <configuration name="CutChineseStringByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nyc.file.bytes.CutChineseStringByte" />
       <module name="java-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nyc.regular.*" />
+          <option name="PATTERN" value="nyc.file.bytes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A05LongestPalindrome" />
         <item itemvalue="Application.WordReverse" />
         <item itemvalue="Application.A03NoEqualSubString" />
         <item itemvalue="Application.A02AddTwoNumbers" />
         <item itemvalue="Application.CutChineseStringByte" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1575076413891" duration="13353000" />
       <workItem from="1575097924594" duration="3846000" />
       <workItem from="1575112949188" duration="464000" />
-      <workItem from="1575178292949" duration="4359000" />
+      <workItem from="1575178292949" duration="9965000" />
     </task>
     <task id="LOCAL-00001" summary="无重复字符的最长子串">
       <created>1575083902773</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575113028694</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第4题">
+      <created>1575183064402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575183064402</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
