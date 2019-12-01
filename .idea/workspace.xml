@@ -153,6 +153,8 @@
       <workItem from="1575033612873" duration="2635000" />
       <workItem from="1575076413891" duration="13353000" />
       <workItem from="1575097924594" duration="3846000" />
+      <workItem from="1575112949188" duration="464000" />
+      <workItem from="1575178292949" duration="4359000" />
     </task>
     <task id="LOCAL-00001" summary="无重复字符的最长子串">
       <created>1575083902773</created>
@@ -175,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575095462653</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第4题">
+      <created>1575113028694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575113028694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="无重复字符的最长子串" />
     <MESSAGE value="char与String转化" />
-    <option name="LAST_COMMIT_MESSAGE" value="char与String转化" />
+    <MESSAGE value="第4题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第4题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
