@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A06Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A07Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-demo/nyc/test/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-demo/nyc/test/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-demo/nyc/test/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-demo/nyc/test/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-demo/nyc/test/TreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-demo/nyc/test/TreeSetTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +156,7 @@
       <workItem from="1575112949188" duration="464000" />
       <workItem from="1575178292949" duration="10032000" />
       <workItem from="1575196190127" duration="1115000" />
-      <workItem from="1575255724046" duration="8735000" />
+      <workItem from="1575255724046" duration="10929000" />
     </task>
     <task id="LOCAL-00001" summary="无重复字符的最长子串">
       <created>1575083902773</created>
@@ -210,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575256223221</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="06.Z 字形变换">
+      <created>1575266590049</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575266590049</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +239,8 @@
     <MESSAGE value="第4题" />
     <MESSAGE value="最长子回文 dp,中心扩散" />
     <MESSAGE value="类继承相关" />
-    <option name="LAST_COMMIT_MESSAGE" value="类继承相关" />
+    <MESSAGE value="06.Z 字形变换" />
+    <option name="LAST_COMMIT_MESSAGE" value="06.Z 字形变换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
