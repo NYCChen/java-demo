@@ -14,6 +14,9 @@ class Parent implements Comparable {
 		System.out.println(age>o1.age?1:age<o1.age?-1:0);
 		return age>o1.age?1:age<o1.age?-1:0;
 	}
+	protected void testPublic(){
+
+	}
 }
 
 class Child extends Parent {
@@ -24,6 +27,9 @@ class Child extends Parent {
 		System.out.println("method of child");
 		Child o1 = (Child)o;
 		return 1;
+	}
+
+	public void testPublic() {
 	}
 }
 public class TreeSetTest {

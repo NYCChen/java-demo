@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A05LongestPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/a01_a10/A05LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A05LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nyc/test/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nyc/test/TreeSetTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +155,9 @@
       <workItem from="1575076413891" duration="13353000" />
       <workItem from="1575097924594" duration="3846000" />
       <workItem from="1575112949188" duration="464000" />
-      <workItem from="1575178292949" duration="9965000" />
+      <workItem from="1575178292949" duration="10032000" />
+      <workItem from="1575196190127" duration="1115000" />
+      <workItem from="1575255724046" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="无重复字符的最长子串">
       <created>1575083902773</created>
@@ -191,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575183064402</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="最长子回文 dp,中心扩散">
+      <created>1575194379087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575194379087</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +224,8 @@
     <MESSAGE value="无重复字符的最长子串" />
     <MESSAGE value="char与String转化" />
     <MESSAGE value="第4题" />
-    <option name="LAST_COMMIT_MESSAGE" value="第4题" />
+    <MESSAGE value="最长子回文 dp,中心扩散" />
+    <option name="LAST_COMMIT_MESSAGE" value="最长子回文 dp,中心扩散" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
