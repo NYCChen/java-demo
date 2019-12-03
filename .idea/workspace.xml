@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/a01_a10/A08MyAtoi.java" afterDir="false" />
+    <list default="true" id="4a8070c1-c2c8-4418-a637-7a672006bf4d" name="Default Changelist" comment="匹配Int(1.大数问题异常2.正则)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -157,7 +156,7 @@
       <workItem from="1575178292949" duration="10032000" />
       <workItem from="1575196190127" duration="1115000" />
       <workItem from="1575255724046" duration="11574000" />
-      <workItem from="1575356574181" duration="5633000" />
+      <workItem from="1575356574181" duration="6189000" />
     </task>
     <task id="LOCAL-00001" summary="无重复字符的最长子串">
       <created>1575083902773</created>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575271240498</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="匹配Int(1.大数问题异常2.正则)">
+      <created>1575362433725</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575362433740</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +255,8 @@
     <MESSAGE value="类继承相关" />
     <MESSAGE value="06.Z 字形变换" />
     <MESSAGE value="07.防溢出的整数反转" />
-    <option name="LAST_COMMIT_MESSAGE" value="07.防溢出的整数反转" />
+    <MESSAGE value="匹配Int(1.大数问题异常2.正则)" />
+    <option name="LAST_COMMIT_MESSAGE" value="匹配Int(1.大数问题异常2.正则)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
